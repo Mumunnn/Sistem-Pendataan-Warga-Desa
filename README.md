@@ -1,5 +1,5 @@
-Sumber asli : Youtube channel : IT Desa Production
-Link : https://www.youtube.com/watch?v=loXH1MGsV78&t=467s
+Sumber asli = Youtube channel : IT Desa Production,
+Link = https://www.youtube.com/watch?v=loXH1MGsV78&t=467s
 
 Sistem ini merupakan clone dari file asli diatas, ada beberapa fitur yang telah dimodifikasi.
 
